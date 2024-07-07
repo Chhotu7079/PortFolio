@@ -6,8 +6,10 @@ As I grow and learn, this portfolio will act as a living document, evolving in t
 
 I invite you to explore this portfolio, witness my progression, and join me on this dynamic expedition of growth and discovery.
 ## Run Locally
-
-
+https://github.com/Chhotu7079/PortFolio
+ cd portfolio
+  npm install
+  npm run dev
 
 
 ## Tech Stack
@@ -15,7 +17,3 @@ I invite you to explore this portfolio, witness my progression, and join me on t
 **Client:** React, TailwindCSS, Typescript
 
 
-## Links
-Deploy Link: https://manya-softwaredeveloper.netlify.app/
-
-Project Link: https://github.com/Manya67/portfolio_manya
